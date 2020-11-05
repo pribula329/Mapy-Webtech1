@@ -1,0 +1,58 @@
+#mapid {
+    height: 650px;
+}
+body{
+    background-image: url("imagine/pozadie.jpeg");
+    background-size: cover;
+}
+
+nav{
+    text-align: center;
+}
+h1{
+
+    color: orange;
+
+    text-shadow: 5px 5px 5px black;
+}
+
+h6{
+    text-align: center;
+}
+#zoo {
+    background-color: #5DB56E;
+    color: #fff;
+    border-radius: 10%;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+
+ }
+#elektricka {
+    background-color: orange;
+    color: #fff;
+    border-radius: 10%;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+p {
+    background-color: #000;
+    color: #fff;
+    border-radius: 10%;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+button[type=button]{
+    width: 100%;
+    background-color: rgba(0, 230, 64, 0.8);
+}
+
+footer{
+
+    color: white;
+}
